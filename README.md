@@ -16,6 +16,7 @@
 - LangGraph 기반 분석 워크플로
 - GitHub Actions를 통한 일일 자동 실행 및 리포트 전송
 - Bootstrap 기반 시그널 향후 수익률 검정 + 뉴스 감성분석 결합 검정
+- [개발 일지](https://github.com/junhw8670/WhyMove/tree/main/docs/devlog): 주요 설계 결정과 기능 구현 과정을 날짜별로 기록
 
 [Repository](https://github.com/junhw8670/WhyMove)
 
@@ -25,6 +26,7 @@
 - LangGraph Supervisor와 전문 분석 모듈
 - DART OpenAPI 및 K-IFRS RAG를 MCP 도구로 제공
 - 사업보고서 분석, 재무비율, 동종기업 비교, 추세 분석
+- [개발 일지](https://github.com/junhw8670/DartCopilot/tree/main/docs/devlog): 주요 설계 결정과 기능 구현 과정을 날짜별로 기록
 
 [Repository](https://github.com/junhw8670/DartCopilot)
 
