@@ -1,4 +1,4 @@
-# JoonHwan Lee
+# 이준환(JoonHwan Lee)
 
 ## About Me
 
@@ -30,7 +30,10 @@
 
 [Repository](https://github.com/junhw8670/WhyMove)
 
+## Learning Notes
 
+- [AI Study Notes](https://github.com/junhw8670/Multimodal-MCP): AI 활용 멀티모달·MCP PJ 과정(2025.10 ~ 2026.04) 학습 내용
+- [Paper Review](https://github.com/junhw8670/Paper-review): Transformer, BERT, RAG, ReAct 논문 읽고 기록
 
 ## Tech Stack
 
